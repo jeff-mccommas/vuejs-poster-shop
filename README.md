@@ -1,12 +1,8 @@
-# Ultimate Vue.js Developers Course
 
-Source code for the [Ultimate Vue.js Developers Course](http://bit.ly/2mPK8ny).
-
-### Project 1: Vue.js Poster Shop
+### Project : Vue.js Poster Shop
 
 #### Demo
 
-See the completed project here: [http://vuejs-poster-shop.vuejsdevelopers.com/](http://vuejs-poster-shop.vuejsdevelopers.com/)
 
 #### Pre-installation
 
@@ -27,7 +23,7 @@ See the completed project here: [http://vuejs-poster-shop.vuejsdevelopers.com/](
         ```
         cd /path/to/install/location
         
-        git clone git@github.com:[your_username]/vuejs-poster-shop.git
+        git clone https://github.com/jeff-mccommas/vuejs-poster-shop.git
         ```
     
     **Option 2 (easier)**
@@ -36,8 +32,7 @@ See the completed project here: [http://vuejs-poster-shop.vuejsdevelopers.com/](
     
     ```
     cd /path/to/install/location
-    
-    git clone https://github.com/vuejsdevelopers/vuejs-poster-shop.git
+    https://github.com/jeff-mccommas/vuejs-poster-shop.git
     ```  
 
 2. Install dependencies

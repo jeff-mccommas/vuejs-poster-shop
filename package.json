@@ -1,7 +1,7 @@
 {
   "name": "vuejs-poster-shop",
   "version": "1.0.0",
-  "description": "vue js-poster-shop,
+  "description": "movie-listings-app",
   "main": "index.js",
   "scripts": {
     "start": "nodemon ./index.js --ignore node_modules/ -e js,html,css"
